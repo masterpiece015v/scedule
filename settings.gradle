@@ -1,0 +1,2 @@
+rootProject.name='Scedule'
+include ':app'
